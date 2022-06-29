@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
           backgroundColor: AppColors.second,
         ),
         body: Padding(
-          padding: const EdgeInsets.only(left: 10, right: 10, top: 50),
+          padding: const EdgeInsets.only(left: 5, right: 5, top: 50),
           child: Column(
             children: [
               TextFormField(
